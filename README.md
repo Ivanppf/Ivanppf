@@ -43,14 +43,14 @@
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="40"/> 
   <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="postman" width="30" height="30"/> 
-  <img align="center" alt="hicaro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="ivan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 <p>
 
 </p>
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <a href= "https://github.com/brasilhicaro">
+  <a href= "https://github.com/Ivanppf">
 
   <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ivanppf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
